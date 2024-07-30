@@ -6,3 +6,16 @@
 :root{
   font-family: "Inter",sans-serif;
 }
+@media only screen and (max-width: 768px) {
+  body {
+      margin: 0;
+      padding: 0;
+  }
+  .container {
+      width: 100%;
+      box-sizing: border-box;
+  }
+}
+html, body {
+  overflow-x: hidden;
+}
