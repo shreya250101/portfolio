@@ -13,7 +13,7 @@ export const ABOUT_TEXT = `I am a dedicated professional pursuing a Master’s i
 
 export const EXPERIENCES = [
   {
-    year: "June 2024 - Current",
+    year: "June 2024 - Aug 2024",
     role: "Financial Planning Analyst",
     company: "Brookfield Properties, Bengaluru, India",
     description: `Assist in preparing financial statements, budgets, forecasts, and variance analysis. Conduct market research, analyze economic trends, and support FP&A team projects, including drafting presentations for clients.`,
@@ -41,7 +41,7 @@ const EDUCATION = [
     title: "Master of Science, Management of Information Systems",
     institution: "University Of Illinois Springfield",
     location: "Springfield,IL,USA",
-    dates: "May 2023 - Dec 2024",
+    dates: "May 2023 - May 2025",
     gpa: "3.96/4.0",
     
   },
