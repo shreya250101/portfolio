@@ -5,7 +5,7 @@ const EDUCATION = [
     title: "Master of Science, Management of Information Systems",
     institution: "University Of Illinois Springfield",
     location: "Springfield, IL, USA",
-    dates: "May 2023 - Dec 2024",
+    dates: "May 2023 - May 2025",
     gpa: "3.96/4.0",
   },
   {
